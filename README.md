@@ -1,15 +1,14 @@
-# [Your Name]
+# Suhani Shukla
 
-Cybersecurity student at [VIT Bhopal University] · Graduating [2027]
+Student at VIT Bhopal University | Majoring in Computer Science Engineering
 
 Focused on blue team and defensive security. Currently learning through CTFs and home lab practice.
 
 ---
 
-**Skills I'm building**
+**Skills**
 - Python, Bash, Linux
 - Log analysis, network traffic, SIEM basics
-- Platforms: TryHackMe, HackTheBox
 
 **Interests**
 - SOC / Threat Detection
@@ -18,4 +17,4 @@ Focused on blue team and defensive security. Currently learning through CTFs and
 
 ---
 
-📫 [your.email@domain.com](mailto:shukla.suhani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suhani-shukla20)
+📫 [GMail](mailto:shukla.suhani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suhani-shukla20)
